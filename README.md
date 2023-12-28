@@ -1,2 +1,5 @@
-# Cpp_Primer_Plus
-C++ Primer Plus Sixth Edition book code examples and programming exercises answers
+# 简介
+
+提供了C++ Primer Plus第六版的书中源代码和编程习题答案
+
+正在更新中
